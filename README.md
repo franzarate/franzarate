@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Fran and I am 26 years old and I live in Buenos Aires, Argentina.
 
-- 🏢 I’m currently working as People Analytics Specialist.
+- 🏢 I’m currently working as People Analytics Specialist. Im also a freelancer with experience in Web Developments, Scraping Tools and automations.
 - 🎓 I have Bachelor's degree in Business Administration with a minor field in Technology and data science.
 - 📚 I'm learning about Data Engineering and looking forward to move my carreer into that path.
 - ✈️ Pursuing my childhood dream of becoming a Pilot.
